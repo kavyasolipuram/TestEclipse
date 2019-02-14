@@ -1,5 +1,9 @@
 package com.main.git;
 
 public class TestFinal {
-  System.out.prinln("Test");
+
+    void test() {
+      System.out.println("Final Test");
+    }
+
 }
